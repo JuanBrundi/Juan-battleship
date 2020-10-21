@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  font-family: 'Piedra', cursive;
+}
+
+* {
+  margin: 0;
+  background-color: #f3f3f3;
+}
+
+.input-form {
+  width: 20rem;
+}
+
+.splash-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 66vh;
+}
+
+.splash-title {
+  font-size: 80px;
+}
+
+.button {
+  background-color: #1b9cc6;
+  padding: .5em 1em;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+}
+
+.splash-btn {
+  font-size: 2rem;
+  margin-left: 2rem;
+}
